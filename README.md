@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ### I'm Yasiru(Yuky) Nawanjana
 
 This is my **GitHub profile.** 
