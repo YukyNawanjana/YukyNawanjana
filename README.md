@@ -1,5 +1,5 @@
 ### Hello there 👋
-### I'm Yasiru(Yuky) Nawanjana
+### I'm Yuky Nawanjana
 
 This is my **GitHub profile.** 
 
