@@ -10,7 +10,16 @@
   <a href="https://lk.linkedin.com/in/yasiru-nawanjana-1a2851196">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" alt="">
   </a>
+   <a href="https://lk.linkedin.com/in/yasiru-nawanjana-1a2851196">
+    <img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=GitHub" alt="">
+  </a>
 </p>
+
+<p align="center">
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=YukyNawanjana&repo=YukyNawanjana-visitors-badge&countColorcountColor&countColor=%237B1E7A" alt="">
+<img src="https://img.shields.io/github/followers/YukyNawanjana?logo=GitHub&style=for-the-badge" alt="">
+</p>
+
 
 Here are some ideas to get you started:
 
