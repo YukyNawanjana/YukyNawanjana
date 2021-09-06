@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=YukyNawanjana&repo=YukyNawanjana-visitors-badge&countColorcountColor&countColor=%25D366" alt="">
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=YukyNawanjana&repo=YukyNawanjana-visitors-badge&countColorcountColor&countColor=%237B1E7A" alt="">
 <img src="https://img.shields.io/github/followers/YukyNawanjana?logo=GitHub&style=for-the-badge" alt="">
 </p>
 
