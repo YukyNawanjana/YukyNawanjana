@@ -22,7 +22,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/YukyNawanjana/YukyNawanjana/blob/master/banner.jpg" alt="">
+  <img src="https://github.com/YukyNawanjana/YukyNawanjana/blob/master/banner-yuky.png" alt="">
 
 ---
 </p>
