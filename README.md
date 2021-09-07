@@ -10,7 +10,7 @@
   <a href="https://lk.linkedin.com/in/yasiru-nawanjana-1a2851196">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" alt="">
   </a>
-   <a href="https://lk.linkedin.com/in/yasiru-nawanjana-1a2851196">
+   <a href="https://github.com/YukyNawanjana">
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub" alt="">
   </a>
 </p>
