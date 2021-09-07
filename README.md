@@ -20,6 +20,12 @@
 <img src="https://img.shields.io/github/followers/YukyNawanjana?logo=GitHub&style=for-the-badge" alt="">
 </p>
 
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/YukyNawanjana/YukyNawanjana/master/banner.png" alt="">
+
+---
+</p>
 
 Here are some ideas to get you started:
 
